@@ -1,6 +1,6 @@
 # ConnectGrid: Digital Marketing Agency
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/HhmedHesham/generated-app-20250928-223112)
 
 ConnectGrid is a visually stunning, professional marketing agency website designed to showcase digital marketing services, build brand credibility, and generate leads. The application is a multi-page, multi-lingual (English & Arabic with RTL support) single-page application (SPA) built with React and TypeScript. It features a clean, minimalist design aesthetic, leveraging a sophisticated blue color palette with gradient accents and fluid animations powered by Framer Motion.
 
@@ -91,7 +91,7 @@ This project is configured for seamless deployment to **Cloudflare Pages**.
 
 ### Deploy with a Click
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/HhmedHesham/generated-app-20250928-223112)
 
 ### Manual Deployment with Wrangler
 
