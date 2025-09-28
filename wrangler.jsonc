@@ -1,0 +1,17 @@
+/**
+ * Wrangler config for the Cloudflare Durable Object template
+ * STRICTLY DO NOT MODIFY THIS FILE - Hidden from AI to prevent breaking core functionality
+ */
+ {
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "v1-connectgrid-agency-w-2d66c0e7-af06-4d88-97b1-21aa57e61cd3",
+	"main": "worker/index.ts",
+	"compatibility_date": "2025-04-24",
+	"assets": {
+		"not_found_handling": "single-page-application",
+		"run_worker_first": ["/api/*", "!/api/docs/*"]
+	},
+	"observability": {
+		"enabled": true
+	}
+}
